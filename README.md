@@ -95,7 +95,12 @@ Visualizations of the prediction results are provided to assess model performanc
 
 ---
 ## Demo
-![Sentiment Analysis](https://sentimentalanalysis01.streamlit.app/)
+
+You can view a live demo of the application at the following link:
+
+[Live Demo](https://sentimentalanalysis01.streamlit.app/)
+
+---
 ## Future Work
 
 - Explore advanced models like Support Vector Machines or neural networks for improved accuracy.
