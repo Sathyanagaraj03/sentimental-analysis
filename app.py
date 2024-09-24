@@ -64,8 +64,6 @@ with tab1:
 # Sentiment prediction tab
 with tab2:
     st.header("Enter Text for Sentiment Analysis")
-    # Display the current date and time (saved to the database)
-    st.write("Current Date and Time (Logged):", current_datetime)
 
     # User input for sentiment analysis
     user_input = st.text_area("Enter text for sentiment analysis:")
