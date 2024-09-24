@@ -9,7 +9,7 @@ import pandas as pd
 import altair as alt
 
 # Set up MySQL connection
-engine = create_engine("mysql+mysqlconnector://root:""@localhost/sentimental_analysis")
+engine = create_engine("mysql+mysqlconnector://root:""@localhost:4306/database_name")
 
 # Create a metadata object to manage the table schema
 metadata = MetaData()
