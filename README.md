@@ -94,7 +94,8 @@ Visualizations of the prediction results are provided to assess model performanc
 - **Key Features**: The TF-IDF vectorizer highlights important words that contribute to sentiment classification.
 
 ---
-
+## Demo
+![Sentiment Analysis](https://sentimentalanalysis01.streamlit.app/)
 ## Future Work
 
 - Explore advanced models like Support Vector Machines or neural networks for improved accuracy.
