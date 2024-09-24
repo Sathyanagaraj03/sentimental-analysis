@@ -1,4 +1,4 @@
-v# Sentiment Analysis Streamlit Application
+# Sentiment Analysis Streamlit Application
 
 ![Sentiment Analysis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe31SWTdSuedDA0St9kcxrv995vW0WWd8Umg&s)
 
