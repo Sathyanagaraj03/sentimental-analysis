@@ -40,7 +40,7 @@ To run the project, you will need the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/sentiment-analysis-streamlit.git
+    git clone https://github.com/Sathyanagaraj03/sentiment-analysis-streamlit.git
     cd sentiment-analysis-streamlit
     ```
 
